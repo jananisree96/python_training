@@ -16,7 +16,6 @@ elif(choice==3):
 elif(choice==4):
     print("Thank u")
 else:
-    print("Error:Invalid selection")
-
+    print("Error:Invalid option")
     
     
